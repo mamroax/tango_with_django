@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9f8d1d9b-a8d2-413c-9131-5449916c7d57" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tango_with_django_project/tango_with_django_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/tango_with_django_project/tango_with_django_project/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tango_with_django_project/tango_with_django_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/tango_with_django_project/tango_with_django_project/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
